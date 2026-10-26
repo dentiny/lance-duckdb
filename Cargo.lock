@@ -3943,6 +3943,7 @@ dependencies = [
  "lance",
  "lance-arrow",
  "lance-core",
+ "lance-datafusion",
  "lance-file",
  "lance-index",
  "lance-io",
